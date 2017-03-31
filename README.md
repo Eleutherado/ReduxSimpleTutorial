@@ -1,3 +1,9 @@
+# This is my first ReactJS project
+
+It is basically a single page webapp that requests search results from the YouTube Search API and displays them in a sidebar, while allowing you to play the one you select. 
+
+---
+Stephen Grider's Original Readme
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
