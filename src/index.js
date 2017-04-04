@@ -5,7 +5,7 @@ import SearchBar from './components/search_bar';
 import VideoList from "./components/video_list";
 import VideoDetail from "./components/video_detail";
 
-const YT_API_KEY= "AIzaSyCxQGbuhzGf3Zj14j9kDkonaqgGwmDPyeU"
+const YT_API_KEY= **REMOVED**
 
 // React is a js library that generates html to be shown to a user.
 // Here we create a new component that generates some html
